@@ -7,7 +7,6 @@ def get_matrix(n, m, value):
         for j in range(m):
             skobki.append(value)
         matrix.append(skobki)
-    print(matrix)
     return matrix
 
 
